@@ -14,7 +14,7 @@ This project demonstrates a secure method of generating SQL queries using LangCh
 ## Requirements
 
 - Python 3.7+
-- OpenAI API key
+- Mistral AI using Ollama
 - LangChain
 - SQLAlchemy
 - A SQL database (SQLite used in this example)
@@ -23,8 +23,8 @@ This project demonstrates a secure method of generating SQL queries using LangCh
 
 1. Clone this repository:
    ```
-   git clone https://github.com/paras55/advanced-chat-with-db.git
-   cd advanced-chat-with-db
+   git clone https://github.com/unnikrishnan-nambiar/Chat-With-Database
+   cd Chat-With-Database
    ```
 
 2. Install the required packages:
